@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Amier and I'm eager to learn👋
 
 <!--
 **amierashraf006/amierashraf006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
